@@ -26,7 +26,7 @@ I compiled this list mainly for myself, but anyone can benefit from it.
 
 If you have any questions, you can send them to [hello@gillesdemey.be](mailto:hello@gillesdemey.be).
 
-If you have any remarks, see a mistake or if you want to contribute to this list, feel free to send me a pull request.
+If you have any remarks, see a mistake or if you want to contribute to this list, feel free to send me a pull request on GitHub [https://github.com/gillesdemey/productivity](https://github.com/gillesdemey/productivity).
 
 **Note:** All of these applications and utilities are created specifically for either **Mac OS** and/or **Linux**.
 
@@ -35,29 +35,29 @@ If you have any remarks, see a mistake or if you want to contribute to this list
 Any developer worth his salt will spend loads of time in the terminal, these utilities will mostly help you get things done faster, and with less headaches.
 
 ## Homebrew<a name="homebrew"></a>
-[http://brew.sh/]()
+[http://brew.sh/](http://brew.sh/)
 
 Homebrew enables you to install a plethora of useful software and utilities very much like aptitude does on Linux with the exception that it builds the software specifically for your platform.
 
 ## iTerm2<a name="iterm2"></a>
-[http://www.iterm2.com/#/section/home]()
+[http://www.iterm2.com/](http://www.iterm2.com/)
 
 iTerm2 is a must-have for anyone who works a lot in the terminal, it has loads of useful functions and customizable settings.
 
 ### iTerm2 themes<a name="iterm2-themes"></a>
-[https://github.com/mbadolato/iTerm2-Color-Schemes]()
+[https://github.com/mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 Useful for anyone who isn't content with the default themes that are shipped with iTerm2.
 
 My personal favorite is **Monokai Soda**.
 
 ### Fixing iTerm2 key bindings<a name="iterm2-keybindings"></a>
-[http://elweb.co/making-iterm-2-work-with-normal-mac-osx-keyboard-shortcuts/]()
+[http://elweb.co/making-iterm-2-work-with-normal-mac-osx-keyboard-shortcuts/](http://elweb.co/making-iterm-2-work-with-normal-mac-osx-keyboard-shortcuts/)
 
 This makes it easier to navigate in the CLI, using sane key bindings to move around.
 
 ## Oh-my-zshell<a name="oh-my-zshell"></a>
-[https://github.com/robbyrussell/oh-my-zsh]()
+[https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 A better shell implementation than bash, backwards compatible with bash scripts so you don't have to worry about compatibility. 
 
@@ -74,12 +74,12 @@ Then kill your tmux session so your shell can reload.
 `killall tmux; tmux`
 
 ### Zshell Syntax Highlighting<a name="zshell-syntax"></a>
-[https://github.com/zsh-users/zsh-syntax-highlighting]()
+[https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 Syntax highlighting for your terminal commands, useful if you write a lot of long statements.
 
 ## Nano syntax highlighting<a name="nano-syntax"></a>
-[https://github.com/nanorc/nanorc]()
+[https://github.com/nanorc/nanorc](https://github.com/nanorc/nanorc)
 
 *If you use Vim or Emacs, feel free to ignore this.*
 
@@ -90,35 +90,35 @@ This provides some useful syntax highlighting for many languages when using nano
 # Applications<a name="application"></a>
 
 ## Sublime Text<a name="sublime-text"></a>
-[http://www.sublimetext.com/]()
+[http://www.sublimetext.com/](http://www.sublimetext.com/)
 
 My preferred code editor is Sublime Text. There are many packages available that extend it's abilities and to ultimately help you to become a code ninja.
 
 As a beginner, I encourage you to check out these screencasts by Jeffrey Way. They are well worth your time.
 
-[http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/]()
+[http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
 ### Sublime Package Manager<a name="sublime-package-manager"></a>
-[https://sublime.wbond.net/installation]()
+[https://sublime.wbond.net/installation](https://sublime.wbond.net/installation)
 
 A package manager for Sublime Text. It's mandatory if you want to add extra functionality.
 
 ## ClipMenu<a name="clipmenu"></a>
-[http://www.clipmenu.com/]()
+[http://www.clipmenu.com/](http://www.clipmenu.com/)
 
 My preferred clipboard history manager, it's free, supports many types of data and has some useful features like custom actions and snippets.
 
 ## Spectacle<a name="spectacle"></a>
-[http://spectacleapp.com/]()
+[http://spectacleapp.com/](http://spectacleapp.com/)
 
 Easy to use window manager with customizable keyboard shortcuts.
 
 ## Alfred<a name="alfred"></a>
-[http://www.alfredapp.com/]()
+[http://www.alfredapp.com/](http://www.alfredapp.com/)
 
 Alfred is great, The Verge has a great article covering it.
 
-[http://www.theverge.com/2012/12/3/3718546/verge-at-work-alfred-computer-shortcuts]()
+[http://www.theverge.com/2012/12/3/3718546/verge-at-work-alfred-computer-shortcuts](http://www.theverge.com/2012/12/3/3718546/verge-at-work-alfred-computer-shortcuts)
 
 And it has a hat for a logo, what's not to like?
 
