@@ -24,7 +24,7 @@ I won't be discussing anything in depth, as I think that everyone has to discove
 
 I compiled this list mainly for myself, but anyone can benefit from it.
 
-If you have any questions, you can send them to [hello@gillesdemey.be](mailto:hello@gillesdemey.be).
+If you have any questions, you can send them to [gilles@demey.io](mailto:gilles@demey.io).
 
 If you have any remarks, see a mistake or if you want to contribute to this list, feel free to send me a pull request on GitHub [https://github.com/gillesdemey/productivity](https://github.com/gillesdemey/productivity).
 
